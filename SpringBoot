@@ -1,0 +1,37 @@
+Course : End-to-End Enterprise application
+PreRequisite : Good Java Knowledge and Hands-on
+Topics: Spring, Maven, Hibernate, Spring boot, Mongo, Linux basic commands, kafka, junit,
+Rest application
+
+
+0) Depedency Injection & Inversion of control
+1) sample spring project - beans.xml
+2) sample spring project - annotations(@Configuration , @Bean)
+3) sample spring project - annotations(@Configuration, @Component)
+4) Maven phases(validate,compile,package,install,deploy) and goals(clean)
+5) Maven parent child project
+6) Maven creating own plugin
+7) Profiles and Scopes
+8) PropertySource(@Value, Enviornment, spel(spring evaluation expression language))
+9) Qualifiers
+10) Linux basic commands
+11) Introduction to SQL
+12) Hibernate setup and sample project
+13) Hibernate integrated with Spring
+14) Spring boot creating using spring initialzr
+15) Spring boot sample rest project
+16) Spring boot - Spring data jpa integrate hibernate project in Chapter 13(end-end project)
+17) Spring boot - Cloud configuration
+18) Spring boot - Configuration Properties
+19) Spring boot - hystrix netfix- circuit breaker
+20) Introduction to MongoDB
+21) Spring boot - rest controller - mongodb
+22) Spring boot - exception handling techniques , implementation in Chapter 16 and Chapter 21
+23) Introduction to Kafka and setup
+24) Spring boot - implementing kafka in spring boot
+23) Spring Junit test cases
+23) Jenkins file - build jobs
+24) Introduction to PCF
+25) Deployment to PCF
+
+Duration : 40+ hours
