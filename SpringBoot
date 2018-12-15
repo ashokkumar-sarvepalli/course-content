@@ -29,10 +29,12 @@ Rest application
 22) Spring boot - exception handling techniques , implementation in Chapter 16 and Chapter 21
 23) Introduction to Kafka and setup
 24) Spring Security - basic auth and other security techniques
-25) Spring boot - implementing kafka in spring boot
-26) Spring Junit test cases
-27) Jenkins file - build jobs
-28) Introduction to PCF
-29) Deployment to PCF
+25) Spring boot - Pagination
+26) Spring boot - Caching
+27) Spring boot - implementing kafka in spring boot
+28) Spring Junit test cases
+29) Jenkins file - build jobs
+30) Introduction to PCF
+31) Deployment to PCF
 
 Duration : 40+ hours
