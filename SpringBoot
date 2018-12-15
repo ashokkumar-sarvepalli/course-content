@@ -28,10 +28,11 @@ Rest application
 21) Spring boot - rest controller - mongodb
 22) Spring boot - exception handling techniques , implementation in Chapter 16 and Chapter 21
 23) Introduction to Kafka and setup
-24) Spring boot - implementing kafka in spring boot
-23) Spring Junit test cases
-23) Jenkins file - build jobs
-24) Introduction to PCF
-25) Deployment to PCF
+24) Spring Security - basic auth and other security techniques
+25) Spring boot - implementing kafka in spring boot
+26) Spring Junit test cases
+27) Jenkins file - build jobs
+28) Introduction to PCF
+29) Deployment to PCF
 
 Duration : 40+ hours
