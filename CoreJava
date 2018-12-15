@@ -1,0 +1,36 @@
+Course : Core java (More Practical and Hands-on)
+Prerequisite : Basic Program knowledge on c or c++
+
+Chapter 0 : Introducting to programming
+
+Chapter 1 : input-output,datattypes,operators,branching,looping,array
+Chapter 1 Exerices : 25 logical problems on Chapter 1
+
+Chapter 2 : Class, Objects, constructors, access specifiers, static
+Chapter 2 Exercises : 4 case studies with real scenarios on Chapter 2
+
+Chapter 3: Oops Concepts- Designing classes, packaging and layers, Object class, overloading and overriding
+Chaper 3 Exercises : 6 case studies with real scenarios on Chapter 3
+
+Chapter 4: String handling 
+Chapter 4 Exercises : 8 problems to improve string handlign techniques
+
+Chapter 5: Collection Framework- list- set - map - comparator- comparable
+Chapter 5 Exercises : 5 case studies with real scenarios on collection framewrok on Chapter 5
+
+Chapter 6: Exception Handling
+Chapter 6 Exercises : 4 real time problems on exception handling
+
+Chapter 7: File Handling (reading and writing to text files)
+Chapter 7 Exercises : 5 real time problems on file handling
+
+Chapter 8: Threads - runnable - callable - executors framework
+Chapter 8 Exercies : 3 case studies with real scenarios on Threads on Chapter 8
+
+Chapter 9: Sql basics
+Chapter 9 Exercises : few case studies in designing database and retrieving data
+
+Chapter 10: Jdbc - connect to database from java - result 
+Chapter 10 Exercises : 5 real time end-to-end problems involving database queries and updataion
+
+Duration : 40 hours
